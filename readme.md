@@ -1,13 +1,13 @@
 # E-Learning Website using HTML5, CSS3, Bootstrap5 and JavaScript 
 
-![E-Learning Website](preview.jpg)
+
 
 The project involves the creation of an e-learning website using HTML, CSS, Bootstrap 5, and JavaScript. The website aims to provide a user-friendly and responsive platform for learners to access educational content. 
 
 
 ## Introduction
 
-Secret Coder is an e-learning website designed to provide a user-friendly and responsive platform for learners to access educational content. The project incorporates HTML, CSS, Bootstrap 5, and JavaScript to create an interactive and visually appealing learning experience.
+AI Tutor is an e-learning website designed to provide a user-friendly and responsive platform for learners to access educational content. The project incorporates HTML, CSS, Bootstrap 5, and JavaScript to create an interactive and visually appealing learning experience.
 
 ## Features
 
@@ -32,10 +32,10 @@ Before you begin, ensure you have the following prerequisites:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/keerti-1924/E-Learning-Website-HTML-CSS.git
-
-2. Open the project in your preferred text editor.
-3. Launch the `index.html` file in a web browser.
+   git clone https://github.com/kannan-2002/ShlokLabs-Hackathon
+2.unzip the scss folder.
+3. Open the project in your preferred text editor.
+4. Launch the `index.html` file in a web browser.
 
 ## Technologies Used
 
